@@ -2,11 +2,11 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>org.openmrs.module</groupId>
-		<artifactId>bahmni-idgen</artifactId>
+		<artifactId>idgen</artifactId>
 		<version>2.6-SNAPSHOT</version>
 	</parent>
 	<groupId>org.openmrs.module</groupId>
-	<artifactId>bahmni-idgen-api</artifactId>
+	<artifactId>idgen-api</artifactId>
 	<packaging>jar</packaging>
 	<name>ID Generation API</name>
 	<description>API project for ID Generation</description>
